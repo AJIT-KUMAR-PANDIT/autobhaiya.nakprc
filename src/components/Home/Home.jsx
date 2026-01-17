@@ -39,7 +39,7 @@ export default function Home() {
   ];
 
   return (
-    <div className="relative flex h-screen w-full flex-col bg-white dark:bg-gray-900">
+    <div className="relative flex h-screen w-full flex-col bg-white dark:bg-gray-900 mb-24">
       {/* Map Section */}
       <div className="relative w-full h-[45vh] shrink-0 bg-gray-200 overflow-hidden">
         {/* Map Background */}
